@@ -1,3 +1,9 @@
+/*
+ * Author: Kristopher Hankey
+ * Date: November 26, 2020
+ * Course: OOP3200 - Fall 2020
+ */
+
 package ca.durhamcollege;
 
 import java.util.Vector;
@@ -133,7 +139,7 @@ public class Vector2D
     @Override
     public String toString()
     {
-        return "(" + x + ", " + y + "}";
+        return "(" + x + ", " + y + ")";
     }
 
     // STATIC METHODS
